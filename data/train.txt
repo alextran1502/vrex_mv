@@ -27,8 +27,8 @@ data/img/image_104.rotate180.jpeg
 data/img/image_104.rotate270.jpeg
 data/img/image_104.rotate90.jpeg
 data/img/image_105.resize.jpeg
-data/img/image_105.rotate270.jpeg
 data/img/image_105.rotate180.jpeg
+data/img/image_105.rotate270.jpeg
 data/img/image_105.rotate90.jpeg
 data/img/image_106.resize.jpeg
 data/img/image_106.rotate180.jpeg
@@ -44,3 +44,8 @@ data/img/image_108.rotate270.jpeg
 data/img/image_108.rotate90.jpeg
 data/img/image_109.resize.jpeg
 data/img/image_109.rotate180.jpeg
+data/img/image_110.rotate270.jpeg
+data/img/image_118.rotate180.jpeg
+data/img/image_122.rotate90.jpeg
+data/img/image_121.rotate90.jpeg
+data/img/image_109.rotate270.jpeg
